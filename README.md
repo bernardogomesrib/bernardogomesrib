@@ -1,5 +1,5 @@
 ### fala tú 👋
--  Estudando NodeJS, Python, Springboot
+-  Estudando NodeJS, Python, Springboot, nextJS e react
 -  Contato: bernardogomesrib@gmail.com
 
 
